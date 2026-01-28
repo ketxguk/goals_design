@@ -38,10 +38,10 @@ class HomePage extends StatelessWidget {
                   const Padding(
                     padding: EdgeInsets.only(left: 12),
                     child: Text(
-                      '+7 922 999-00-00',
+                      '+7 992 999-00-00',
                       style: TextStyle(
                         fontWeight: FontWeight.w700,
-                        fontSize: 16,
+                        fontSize: 18,
                         color: Color(0xFF333333),
                       ),
                     ),
